@@ -12,7 +12,3 @@ Hi, this is Sarina. I'm currently interested in data and machine learning.
 ![](https://streak-stats.demolab.com/?user=sarinanemati&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarinanemati&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarinanemati&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
