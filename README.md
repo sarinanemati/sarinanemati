@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, this is Sarina. I'm currently interested in data and machine learning.
+I'm also staff writer at youthxAI.org
 
 
 ## 🌐 Socials:
