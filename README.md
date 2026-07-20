@@ -9,7 +9,7 @@ I'm also staff writer at youthxAI.org
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sarinanemati&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=sarinanemati&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarinanemati&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
