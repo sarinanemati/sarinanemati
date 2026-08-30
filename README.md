@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, this is Sarina. I'm currently interested in data and machine learning.
-I'm also staff writer at youthxAI.org.
+A data science professional who enjoys building disciplined, interpretable, and scalable machine learning solutions for real world business problems.
 
 
 ## 🌐 Socials:
